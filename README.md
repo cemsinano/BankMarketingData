@@ -60,6 +60,6 @@ You can run all the code and see the result files are generated.
  - `matplotlib`
  - `sklearn`
 
-[Analysis Code can be found here]("https://github.com/cemsinano/ForestFireData-ML/blob/master/src/ForestFiresAnalysis.ipynb")
+[Analysis Code can be found here](https://github.com/cemsinano/ForestFireData-ML/blob/master/src/ForestFiresAnalysis.ipynb)
 
-[Please click here for the Project Report]("https://github.com/cemsinano/ForestFireData-ML/blob/master/results/Report.ipynb")
+[Please click here for the Project Report](https://github.com/cemsinano/ForestFireData-ML/blob/master/results/Report.ipynb)
