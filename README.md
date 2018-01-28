@@ -1,4 +1,4 @@
-Project: ForestFiresDataML
+## Project: ForestFiresDataML
 
 **Created by: Cem Sinan Ozturk**
 
