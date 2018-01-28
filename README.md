@@ -42,6 +42,15 @@ I will also try predict the `area` variable via regression models.
  - First, I fit the data with all features to Random Forest Regression with pruned `depth` hyperparameters.
  - Then I will use to Lasso(L1 regularization) Regression and ElasticNet(L1+L2 regularization) Regression to select features. I will not use Ridge(L2 regularization) since it does not any exact zero weigthed features.
  - As last step, I will fit the data to Random Forest Regression with pruned `depth` hyperparameters onto both features selected by Lasso and ElasticNet.
+ 
+ #### Dependencies
+ 
+ The following python libraries are required to be able to perform the analysis.
+ 
+ - `pandas`
+ -  `numpy`
+ - `matplotlib`
+ - `sklearn`
 
 [Analysis Code can be found here]("./src/ForestFiresAnalysis.ipynb")
 
